@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.emusicstore</OriginalElement>
+  <nodes>
+    <node x="9003.933585149662" y="300.5">com.emusicstore.model.CustomerOrderId</node>
+    <node x="6253.402183500458" y="3965.0">com.emusicstore.service.impl.CustomerOrderServiceImpl</node>
+    <node x="1011.4224502935431" y="260.0">com.emusicstore.model.ShippingAddress</node>
+    <node x="2655.9363391824318" y="2422.0">com.emusicstore.model.Customer</node>
+    <node x="3855.0858585858577" y="4073.0">com.emusicstore.service.impl.UsersServiceImpl</node>
+    <node x="7188.902183500458" y="3952.0">com.emusicstore.controller.CartREST</node>
+    <node x="9287.933585149662" y="2900.0">com.emusicstore.service.ProductService</node>
+    <node x="0.0" y="4033.0">com.emusicstore.dao.impl.ShippingAdrDaoImpl</node>
+    <node x="3053.331397984344" y="2026.0">com.emusicstore.model.Users</node>
+    <node x="8130.5585851496635" y="2530.5">com.emusicstore.dao.CartItemDao</node>
+    <node x="3215.613185304605" y="2994.5">com.emusicstore.service.UsersService</node>
+    <node x="10527.058585149662" y="4005.5">com.emusicstore.controller.ProductController</node>
+    <node x="1970.9722222222213" y="4073.5">com.emusicstore.service.impl.MailServiceImpl</node>
+    <node x="11848.058585149662" y="4033.0">com.emusicstore.service.impl.TrackingServiceImpl</node>
+    <node x="0.0" y="4520.0">com.emusicstore.controller.HomeController</node>
+    <node x="6193.738185304605" y="2981.5">com.emusicstore.dao.CartDao</node>
+    <node x="6309.738185304605" y="2053.0">com.emusicstore.model.Cart</node>
+    <node x="5173.402183500458" y="3992.0">com.emusicstore.dao.impl.CustomerOrderDaoImpl</node>
+    <node x="5659.519672515764" y="741.0">com.emusicstore.model.CustomerOrder</node>
+    <node x="5753.769672515764" y="0.0">com.emusicstore.model.TrackingId</node>
+    <node x="4057.0025252525247" y="2994.5">com.emusicstore.dao.UsersDao</node>
+    <node x="3494.0858585858573" y="4060.0">com.emusicstore.controller.CartController</node>
+    <node x="6723.402183500458" y="4073.5">com.emusicstore.service.impl.CartServiceImpl</node>
+    <node x="7755.5585851496635" y="2940.5">com.emusicstore.dao.impl.CartItemDaoImpl</node>
+    <node x="2634.214116960209" y="260.0">com.emusicstore.model.BillingAddress</node>
+    <node x="11762.808585149662" y="2954.5">com.emusicstore.dao.TrackingDao</node>
+    <node x="3539.613185304605" y="2900.0">com.emusicstore.service.CustomerService</node>
+    <node x="6962.402183500458" y="2954.5">com.emusicstore.service.TrackingService</node>
+    <node x="2557.4722222222213" y="2900.0">com.emusicstore.dao.CustomerDao</node>
+    <node x="8406.558585149663" y="2954.5">com.emusicstore.service.CartItemService</node>
+    <node x="837.9722222222208" y="4046.5">com.emusicstore.controller.RegisterController</node>
+    <node x="4179.085858585857" y="4073.0">com.emusicstore.dao.impl.UsersDaoImpl</node>
+    <node x="8417.652183500457" y="3992.5">com.emusicstore.controller.OrderController</node>
+    <node x="9491.058585149662" y="4019.5">com.emusicstore.controller.AdminProduct</node>
+    <node x="11487.058585149662" y="4033.0">com.emusicstore.dao.impl.TrackingDaoImpl</node>
+    <node x="6594.238185304605" y="2995.0">com.emusicstore.service.CartService</node>
+    <node x="1911.5972222222213" y="2995.0">com.emusicstore.service.MailService</node>
+    <node x="7508.5585851496635" y="1727.0">com.emusicstore.model.CartItem</node>
+    <node x="5745.769672515764" y="300.5">com.emusicstore.model.Tracking</node>
+    <node x="2861.5858585858573" y="3978.5">com.emusicstore.dao.impl.CustomerDaoImpl</node>
+    <node x="5088.113185304605" y="2900.0">com.emusicstore.service.CustomerOrderService</node>
+    <node x="2465.9722222222213" y="3978.5">com.emusicstore.service.impl.CustomerServiceImpl</node>
+    <node x="196.0" y="2954.5">com.emusicstore.dao.ShippingAdrDao</node>
+    <node x="761.5412156076363" y="2954.5">com.emusicstore.service.ShippingAdrService</node>
+    <node x="8043.652183500458" y="4033.0">com.emusicstore.service.impl.CartItemServiceImpl</node>
+    <node x="5558.113185304605" y="2913.5">com.emusicstore.dao.CustomerOrderDao</node>
+    <node x="1345.9722222222208" y="3790.0">com.emusicstore.controller.CustomerController</node>
+    <node x="412.0" y="4033.0">com.emusicstore.service.impl.ShippingAdrServiceImpl</node>
+    <node x="10996.058585149662" y="3978.5">com.emusicstore.dao.impl.ProductDaoImpl</node>
+    <node x="5852.402183500458" y="4046.5">com.emusicstore.dao.impl.CartDaoImpl</node>
+    <node x="8842.933585149662" y="1212.0">com.emusicstore.model.Product</node>
+    <node x="10430.857619204644" y="2900.0">com.emusicstore.dao.ProductDao</node>
+    <node x="4598.902183500458" y="3898.0">com.emusicstore.controller.AdminController</node>
+    <node x="10036.058585149662" y="3978.5">com.emusicstore.service.impl.ProductServiceImpl</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.emusicstore.service.impl.ProductServiceImpl" target="com.emusicstore.model.Product">
+      <point x="0.0" y="-154.0" />
+      <point x="10271.558585149662" y="1677.0" />
+      <point x="9057.433585149662" y="1677.0" />
+      <point x="71.5" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.service.TrackingService" target="com.emusicstore.model.Tracking">
+      <point x="0.0" y="-85.5" />
+      <point x="7132.902183500458" y="701.0" />
+      <point x="5899.808134054227" y="701.0" />
+      <point x="20.53846153846189" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.UsersServiceImpl" target="com.emusicstore.dao.UsersDao">
+      <point x="101.33333333333394" y="-59.5" />
+      <point x="4108.419191919192" y="3470.0" />
+      <point x="4133.002525252525" y="3470.0" />
+      <point x="-76.0" y="45.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.CustomerController" target="com.emusicstore.service.ShippingAdrService">
+      <point x="-272.25" y="-342.5" />
+      <point x="1376.2222222222208" y="3340.0" />
+      <point x="1055.5412156076363" y="3340.0" />
+      <point x="98.0" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.model.Product" target="com.emusicstore.model.CustomerOrder">
+      <point x="-95.33333333333348" y="-207.5" />
+      <point x="8890.60025181633" y="1142.0" />
+      <point x="5903.686339182432" y="1142.0" />
+      <point x="97.66666666666697" y="180.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.model.Users">
+      <point x="-127.61538461538476" y="-234.5" />
+      <point x="4747.786798885073" y="3350.0" />
+      <point x="4512.759074353442" y="3350.0" />
+      <point x="4512.759074353442" y="2282.0" />
+      <point x="3269.0586707116163" y="2282.0" />
+      <point x="102.72727272727207" y="113.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.CartItemDao" target="com.emusicstore.model.CartItem">
+      <point x="88.5" y="-85.5" />
+      <point x="8396.058585149663" y="1996.0" />
+      <point x="7668.6419184829965" y="1996.0" />
+      <point x="47.08333333333303" y="99.5" />
+    </edge>
+    <edge source="com.emusicstore.service.CustomerService" target="com.emusicstore.model.Customer">
+      <point x="0.0" y="-140.0" />
+      <point x="3722.613185304605" y="2860.0" />
+      <point x="2852.981793727886" y="2860.0" />
+      <point x="52.54545454545405" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.ShippingAdrServiceImpl" target="com.emusicstore.dao.ShippingAdrDao">
+      <point x="-130.66666666666606" y="-99.5" />
+      <point x="477.33333333333394" y="3770.0" />
+      <point x="490.0" y="3770.0" />
+      <point x="98.0" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartREST" target="com.emusicstore.service.CartService">
+      <point x="-105.33333333333303" y="-180.5" />
+      <point x="7241.568850167125" y="3260.0" />
+      <point x="6747.538185304606" y="3260.0" />
+      <point x="43.80000000000018" y="45.0" />
+    </edge>
+    <edge source="com.emusicstore.model.Customer" target="com.emusicstore.model.ShippingAddress">
+      <point x="-104.36111111111131" y="-194.0" />
+      <point x="2696.0752280713205" y="2392.0" />
+      <point x="2682.1915583204777" y="2392.0" />
+      <point x="2682.1915583204777" y="611.0" />
+      <point x="1180.922450293543" y="611.0" />
+      <point x="56.5" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.ShippingAdrDaoImpl" target="com.emusicstore.model.ShippingAddress">
+      <point x="-98.0" y="-99.5" />
+      <point x="98.0" y="3770.0" />
+      <point x="185.5" y="3770.0" />
+      <point x="185.5" y="691.0" />
+      <point x="1019.4938788649724" y="691.0" />
+      <point x="-104.92857142857065" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.model.CartItem" target="com.emusicstore.model.Product">
+      <point x="-84.75" y="-99.5" />
+      <point x="7536.8085851496635" y="1667.0" />
+      <point x="8873.57644229252" y="1667.0" />
+      <point x="-112.35714285714266" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartController" target="com.emusicstore.service.CartService">
+      <point x="113.66666666666606" y="-72.5" />
+      <point x="3778.2525252525234" y="3500.0" />
+      <point x="6616.138185304605" y="3500.0" />
+      <point x="-87.60000000000036" y="45.0" />
+    </edge>
+    <edge source="com.emusicstore.model.CustomerOrder" target="com.emusicstore.model.CustomerOrderId">
+      <point x="102.55000000000018" y="-180.5" />
+      <point x="5908.569672515765" y="711.0" />
+      <point x="9035.433585149662" y="711.0" />
+      <point x="-94.5" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.model.Cart">
+      <point x="-40.10526315789457" y="-140.0" />
+      <point x="8568.046920342564" y="3640.0" />
+      <point x="8793.058585149662" y="3640.0" />
+      <point x="8793.058585149662" y="2332.0" />
+      <point x="6530.06171471637" y="2332.0" />
+      <point x="106.82352941176487" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.TrackingServiceImpl" target="com.emusicstore.service.TrackingService">
+      <point x="-113.66666666666669" y="-99.5" />
+      <point x="11904.891918482996" y="3200.0" />
+      <point x="7260.777183500458" y="3200.0" />
+      <point x="127.875" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CartServiceImpl" target="com.emusicstore.dao.CartDao">
+      <point x="-73.0" y="-59.0" />
+      <point x="6759.902183500458" y="3430.0" />
+      <point x="6357.988185304605" y="3430.0" />
+      <point x="54.75" y="58.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.ProductDaoImpl" target="com.emusicstore.dao.ProductDao">
+      <point x="-117.75" y="-154.0" />
+      <point x="11113.808585149662" y="3760.0" />
+      <point x="10784.107619204644" y="3760.0" />
+      <point x="117.75" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CustomerController" target="com.emusicstore.model.Tracking">
+      <point x="-90.75" y="-342.5" />
+      <point x="1557.7222222222208" y="3310.0" />
+      <point x="1312.1276640970318" y="3310.0" />
+      <point x="1312.1276640970318" y="681.0" />
+      <point x="5756.038903284994" y="681.0" />
+      <point x="-123.23076923076951" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartController" target="com.emusicstore.service.CustomerService">
+      <point x="0.0" y="-72.5" />
+      <point x="3664.5858585858573" y="3470.0" />
+      <point x="3722.613185304605" y="3470.0" />
+      <point x="0.0" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.UsersDao" target="com.emusicstore.model.Users">
+      <point x="0.0" y="-45.5" />
+      <point x="4209.002525252525" y="2302.0" />
+      <point x="3227.967761620708" y="2302.0" />
+      <point x="61.63636363636397" y="113.0" />
+    </edge>
+    <edge source="com.emusicstore.model.Tracking" target="com.emusicstore.model.TrackingId">
+      <point x="-66.75" y="-100.0" />
+      <point x="5812.519672515764" y="240.0" />
+      <point x="5858.353005849098" y="240.0" />
+      <point x="-20.91666666666697" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartREST" target="com.emusicstore.service.CustomerService">
+      <point x="-140.44444444444434" y="-180.5" />
+      <point x="7206.457739056013" y="3270.0" />
+      <point x="3827.1846138760343" y="3270.0" />
+      <point x="104.57142857142935" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CustomerController" target="com.emusicstore.model.ShippingAddress">
+      <point x="-211.75" y="-342.5" />
+      <point x="1436.7222222222208" y="3330.0" />
+      <point x="1208.0412156076363" y="3330.0" />
+      <point x="1208.0412156076363" y="651.0" />
+      <point x="1116.3510217221137" y="651.0" />
+      <point x="-8.071428571429351" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.model.Cart" target="com.emusicstore.model.Customer">
+      <point x="-66.76470588235316" y="86.0" />
+      <point x="6356.473479422252" y="2362.0" />
+      <point x="2936.9085614046544" y="2362.0" />
+      <point x="136.47222222222263" y="-194.0" />
+    </edge>
+    <edge source="com.emusicstore.model.Tracking" target="com.emusicstore.model.CustomerOrder">
+      <point x="0.0" y="100.0" />
+      <point x="73.25" y="-180.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CartServiceImpl" target="com.emusicstore.service.CartService">
+      <point x="0.0" y="-59.0" />
+      <point x="6832.902183500458" y="3420.0" />
+      <point x="6703.738185304605" y="3420.0" />
+      <point x="0.0" y="45.0" />
+    </edge>
+    <edge source="com.emusicstore.service.CartItemService" target="com.emusicstore.model.Cart">
+      <point x="-88.5" y="-85.5" />
+      <point x="8495.058585149663" y="2342.0" />
+      <point x="6516.708773539899" y="2342.0" />
+      <point x="93.47058823529369" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.service.CustomerOrderService" target="com.emusicstore.model.CustomerOrder">
+      <point x="0.0" y="-140.0" />
+      <point x="5313.113185304605" y="1192.0" />
+      <point x="5766.953005849098" y="1192.0" />
+      <point x="-39.066666666666606" y="180.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.service.UsersService">
+      <point x="-255.2307692307695" y="-234.5" />
+      <point x="4620.171414269688" y="3380.0" />
+      <point x="3468.946518637939" y="3380.0" />
+      <point x="101.33333333333394" y="45.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CartDaoImpl" target="com.emusicstore.model.Cart">
+      <point x="0.0" y="-86.0" />
+      <point x="6042.902183500458" y="3490.0" />
+      <point x="6018.613185304605" y="3490.0" />
+      <point x="6018.613185304605" y="2392.0" />
+      <point x="6396.532302951664" y="2392.0" />
+      <point x="-26.705882352941444" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.ShippingAdrServiceImpl" target="com.emusicstore.model.ShippingAddress">
+      <point x="0.0" y="-99.5" />
+      <point x="608.0" y="3770.0" />
+      <point x="619.0833333333321" y="3770.0" />
+      <point x="619.0833333333321" y="711.0" />
+      <point x="1051.7795931506862" y="711.0" />
+      <point x="-72.64285714285688" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.model.Customer">
+      <point x="-60.15789473684208" y="-140.0" />
+      <point x="8547.994288763615" y="3630.0" />
+      <point x="8782.058585149662" y="3630.0" />
+      <point x="8782.058585149662" y="2830.0" />
+      <point x="2931.799975546068" y="2830.0" />
+      <point x="131.36363636363603" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CustomerServiceImpl" target="com.emusicstore.dao.CustomerDao">
+      <point x="0.0" y="-154.0" />
+      <point x="-91.5" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.ShippingAdrDaoImpl" target="com.emusicstore.dao.ShippingAdrDao">
+      <point x="98.0" y="-99.5" />
+      <point x="-98.0" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.model.Customer" target="com.emusicstore.model.BillingAddress">
+      <point x="-56.19444444444525" y="-194.0" />
+      <point x="2744.2418947379865" y="2402.0" />
+      <point x="2741.714116960209" y="2402.0" />
+      <point x="2741.714116960209" y="661.0" />
+      <point x="2733.089116960209" y="661.0" />
+      <point x="-14.125" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.model.Product">
+      <point x="127.61538461538476" y="-234.5" />
+      <point x="5003.017568115843" y="3290.0" />
+      <point x="4733.7862622276825" y="3290.0" />
+      <point x="4733.7862622276825" y="1657.0" />
+      <point x="8853.147870863948" y="1657.0" />
+      <point x="-132.78571428571422" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.model.Tracking">
+      <point x="60.15789473684208" y="-140.0" />
+      <point x="8668.3100782373" y="3690.0" />
+      <point x="9139.433585149662" y="3690.0" />
+      <point x="9139.433585149662" y="691.0" />
+      <point x="5920.346595592688" y="691.0" />
+      <point x="41.07692307692287" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.model.Customer">
+      <point x="-170.15384615384664" y="-234.5" />
+      <point x="4705.248337346611" y="3360.0" />
+      <point x="4464.652183500458" y="3360.0" />
+      <point x="4464.652183500458" y="2850.0" />
+      <point x="2879.2545210006137" y="2850.0" />
+      <point x="78.81818181818198" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.CartDao" target="com.emusicstore.model.Cart">
+      <point x="0.0" y="-58.5" />
+      <point x="6303.238185304605" y="2402.0" />
+      <point x="6409.885244128135" y="2402.0" />
+      <point x="-13.352941176470267" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.ProductDao" target="com.emusicstore.model.Product">
+      <point x="0.0" y="-140.0" />
+      <point x="10666.357619204644" y="1667.0" />
+      <point x="9077.862156578234" y="1667.0" />
+      <point x="91.92857142857156" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.ProductController" target="com.emusicstore.model.Product">
+      <point x="112.25" y="-127.0" />
+      <point x="10863.808585149662" y="3770.0" />
+      <point x="10998.232619204644" y="3770.0" />
+      <point x="10998.232619204644" y="1657.0" />
+      <point x="9098.290728006805" y="1657.0" />
+      <point x="112.35714285714266" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.model.ShippingAddress" target="com.emusicstore.model.Customer">
+      <point x="72.64285714285688" y="140.5" />
+      <point x="1197.0653074364" y="601.0" />
+      <point x="2693.1915583204777" y="601.0" />
+      <point x="2693.1915583204777" y="2382.0" />
+      <point x="2712.130783626877" y="2382.0" />
+      <point x="-88.30555555555475" y="-194.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.CustomerDao" target="com.emusicstore.model.Customer">
+      <point x="0.0" y="-140.0" />
+      <point x="2740.4722222222213" y="2880.0" />
+      <point x="2774.163611909704" y="2880.0" />
+      <point x="-26.272727272727934" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.TrackingDaoImpl" target="com.emusicstore.dao.TrackingDao">
+      <point x="85.25" y="-99.5" />
+      <point x="11742.808585149662" y="3770.0" />
+      <point x="11848.058585149662" y="3770.0" />
+      <point x="-85.25" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CustomerServiceImpl" target="com.emusicstore.service.CustomerService">
+      <point x="122.0" y="-154.0" />
+      <point x="2770.9722222222213" y="3460.0" />
+      <point x="3670.327471018891" y="3460.0" />
+      <point x="-52.285714285713766" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="com.emusicstore.model.Users">
+      <point x="30.5" y="-154.0" />
+      <point x="3075.0858585858573" y="3420.0" />
+      <point x="3125.0858585858573" y="3420.0" />
+      <point x="3125.0858585858573" y="2322.0" />
+      <point x="3166.331397984344" y="2322.0" />
+      <point x="0.0" y="113.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.model.CustomerOrderId">
+      <point x="100.2631578947371" y="-140.0" />
+      <point x="8708.415341395194" y="3710.0" />
+      <point x="9161.433585149662" y="3710.0" />
+      <point x="31.5" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartREST" target="com.emusicstore.service.CartItemService">
+      <point x="105.33333333333303" y="-180.5" />
+      <point x="7452.235516833791" y="3590.0" />
+      <point x="8465.558585149663" y="3590.0" />
+      <point x="-118.0" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.ShippingAdrServiceImpl" target="com.emusicstore.service.ShippingAdrService">
+      <point x="130.66666666666606" y="-99.5" />
+      <point x="738.6666666666661" y="3770.0" />
+      <point x="859.5412156076363" y="3770.0" />
+      <point x="-98.0" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.service.TrackingService">
+      <point x="212.69230769230762" y="-234.5" />
+      <point x="5088.094491192765" y="3520.0" />
+      <point x="7090.277183500458" y="3520.0" />
+      <point x="-42.625" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.TrackingDao" target="com.emusicstore.model.Tracking">
+      <point x="0.0" y="-85.5" />
+      <point x="11933.308585149662" y="661.0" />
+      <point x="5981.961980208072" y="661.0" />
+      <point x="102.69230769230762" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CartItemDaoImpl" target="com.emusicstore.dao.CartItemDao">
+      <point x="118.0" y="-99.5" />
+      <point x="8050.5585851496635" y="2880.0" />
+      <point x="8219.058585149663" y="2880.0" />
+      <point x="-88.5" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.service.CartItemService" target="com.emusicstore.model.CartItem">
+      <point x="88.5" y="-85.5" />
+      <point x="8672.058585149663" y="2880.0" />
+      <point x="8506.058585149663" y="2880.0" />
+      <point x="8506.058585149663" y="1986.0" />
+      <point x="7687.4752518163305" y="1986.0" />
+      <point x="65.91666666666697" y="99.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CustomerOrderDaoImpl" target="com.emusicstore.dao.CustomerOrderDao">
+      <point x="112.5" y="-140.5" />
+      <point x="5510.902183500458" y="3490.0" />
+      <point x="5670.613185304605" y="3490.0" />
+      <point x="-112.5" y="126.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.service.CustomerService">
+      <point x="-212.69230769230762" y="-234.5" />
+      <point x="4662.70987580815" y="3370.0" />
+      <point x="3774.8988995903187" y="3370.0" />
+      <point x="52.285714285713766" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.service.CustomerOrderService">
+      <point x="-140.36842105263167" y="-140.0" />
+      <point x="8467.783762447825" y="3230.0" />
+      <point x="5493.113185304605" y="3230.0" />
+      <point x="180.0" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="com.emusicstore.model.Cart">
+      <point x="37.5" y="-167.5" />
+      <point x="6515.902183500458" y="3440.0" />
+      <point x="6423.238185304605" y="3440.0" />
+      <point x="0.0" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.UsersDaoImpl" target="com.emusicstore.model.Users">
+      <point x="76.0" y="-59.5" />
+      <point x="4407.085858585857" y="3470.0" />
+      <point x="4475.652183500458" y="3470.0" />
+      <point x="4475.652183500458" y="2292.0" />
+      <point x="3248.5132161661622" y="2292.0" />
+      <point x="82.18181818181802" y="113.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.ProductServiceImpl" target="com.emusicstore.service.ProductService">
+      <point x="-157.0" y="-154.0" />
+      <point x="10114.558585149662" y="3760.0" />
+      <point x="9641.183585149662" y="3760.0" />
+      <point x="117.75" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CustomerController" target="com.emusicstore.model.Customer">
+      <point x="30.25" y="-342.5" />
+      <point x="1678.7222222222213" y="2860.0" />
+      <point x="2721.61815736425" y="2860.0" />
+      <point x="-78.81818181818198" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.service.ProductService">
+      <point x="255.2307692307695" y="-234.5" />
+      <point x="5130.632952731227" y="3750.0" />
+      <point x="9327.183585149662" y="3750.0" />
+      <point x="-196.25" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.model.Customer" target="com.emusicstore.model.Users">
+      <point x="40.13888888888869" y="-194.0" />
+      <point x="2840.5752280713205" y="2282.0" />
+      <point x="3084.149579802526" y="2282.0" />
+      <point x="-82.18181818181802" y="113.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.model.CustomerOrder">
+      <point x="20.052631578947057" y="-140.0" />
+      <point x="8628.204815079403" y="3670.0" />
+      <point x="8832.433585149662" y="3670.0" />
+      <point x="8832.433585149662" y="1152.0" />
+      <point x="5884.153005849097" y="1152.0" />
+      <point x="78.13333333333321" y="180.5" />
+    </edge>
+    <edge source="com.emusicstore.service.ShippingAdrService" target="com.emusicstore.model.ShippingAddress">
+      <point x="0.0" y="-85.5" />
+      <point x="957.5412156076363" y="721.0" />
+      <point x="1067.922450293543" y="721.0" />
+      <point x="-56.5" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.model.Users" target="com.emusicstore.model.Customer">
+      <point x="-41.09090909090992" y="113.0" />
+      <point x="3125.2404888934343" y="2302.0" />
+      <point x="2872.6863391824318" y="2302.0" />
+      <point x="72.25" y="-194.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartREST" target="com.emusicstore.model.Product">
+      <point x="70.22222222222263" y="-180.5" />
+      <point x="7417.12440572268" y="3580.0" />
+      <point x="7745.0585851496635" y="3580.0" />
+      <point x="7745.0585851496635" y="1707.0" />
+      <point x="8955.290728006805" y="1707.0" />
+      <point x="-30.642857142857338" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.model.CustomerOrder" target="com.emusicstore.model.BillingAddress">
+      <point x="-73.25" y="-180.5" />
+      <point x="5732.769672515764" y="571.0" />
+      <point x="2817.839116960209" y="571.0" />
+      <point x="70.625" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.model.TrackingId">
+      <point x="-42.53846153846189" y="-234.5" />
+      <point x="4832.863721961996" y="3330.0" />
+      <point x="4534.759074353442" y="3330.0" />
+      <point x="4534.759074353442" y="230.0" />
+      <point x="5816.519672515764" y="230.0" />
+      <point x="-62.75" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.model.CustomerOrder" target="com.emusicstore.model.Product">
+      <point x="117.19999999999982" y="180.5" />
+      <point x="5923.219672515765" y="1132.0" />
+      <point x="8985.933585149662" y="1132.0" />
+      <point x="0.0" y="-207.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.model.CartItem">
+      <point x="-20.052631578947512" y="-140.0" />
+      <point x="8588.09955192151" y="3650.0" />
+      <point x="8804.058585149662" y="3650.0" />
+      <point x="8804.058585149662" y="1966.0" />
+      <point x="7725.1419184829965" y="1966.0" />
+      <point x="103.58333333333303" y="99.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.CartItemDao" target="com.emusicstore.model.Cart">
+      <point x="-88.5" y="-85.5" />
+      <point x="8219.058585149663" y="2352.0" />
+      <point x="6503.355832363429" y="2352.0" />
+      <point x="80.11764705882342" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.model.CustomerOrder" target="com.emusicstore.model.Customer">
+      <point x="-117.19999999999982" y="180.5" />
+      <point x="5688.819672515765" y="1152.0" />
+      <point x="2774.714116960209" y="1152.0" />
+      <point x="2774.714116960209" y="2382.0" />
+      <point x="2792.4085614046544" y="2382.0" />
+      <point x="-8.027777777777374" y="-194.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CartItemServiceImpl" target="com.emusicstore.model.CartItem">
+      <point x="132.75" y="-99.5" />
+      <point x="8353.402183500457" y="3620.0" />
+      <point x="8771.058585149662" y="3620.0" />
+      <point x="8771.058585149662" y="1976.0" />
+      <point x="7706.3085851496635" y="1976.0" />
+      <point x="84.75" y="99.5" />
+    </edge>
+    <edge source="com.emusicstore.service.ProductService" target="com.emusicstore.model.Product">
+      <point x="0.0" y="-140.0" />
+      <point x="9523.433585149662" y="1707.0" />
+      <point x="8996.147870863948" y="1707.0" />
+      <point x="10.21428571428578" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminProduct" target="com.emusicstore.model.Product">
+      <point x="175.0" y="-113.0" />
+      <point x="9928.558585149662" y="3770.0" />
+      <point x="9974.236414049545" y="3770.0" />
+      <point x="9974.236414049545" y="1687.0" />
+      <point x="9037.005013721091" y="1687.0" />
+      <point x="51.07142857142844" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CartItemDaoImpl" target="com.emusicstore.model.CartItem">
+      <point x="0.0" y="-99.5" />
+      <point x="7932.5585851496635" y="2880.0" />
+      <point x="7879.0585851496635" y="2880.0" />
+      <point x="7879.0585851496635" y="2006.0" />
+      <point x="7649.8085851496635" y="2006.0" />
+      <point x="28.25" y="99.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.service.CustomerService">
+      <point x="-160.4210526315792" y="-140.0" />
+      <point x="8447.731130868879" y="3240.0" />
+      <point x="3879.470328161748" y="3240.0" />
+      <point x="156.85714285714312" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="com.emusicstore.model.Cart">
+      <point x="91.5" y="-154.0" />
+      <point x="3136.0858585858573" y="2372.0" />
+      <point x="6369.826420598723" y="2372.0" />
+      <point x="-53.41176470588198" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.RegisterController" target="com.emusicstore.service.UsersService">
+      <point x="162.66666666666606" y="-86.0" />
+      <point x="1244.6388888888869" y="3430.0" />
+      <point x="3266.279851971271" y="3430.0" />
+      <point x="-101.33333333333394" y="45.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.CustomerController" target="com.emusicstore.model.CustomerOrder">
+      <point x="-30.25" y="-342.5" />
+      <point x="1618.2222222222208" y="3300.0" />
+      <point x="1522.9162156076363" y="3300.0" />
+      <point x="1522.9162156076363" y="1142.0" />
+      <point x="5669.28633918243" y="1142.0" />
+      <point x="-136.73333333333358" y="180.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.CustomerOrderDao" target="com.emusicstore.model.CustomerOrder">
+      <point x="0.0" y="-126.5" />
+      <point x="5783.113185304605" y="1192.0" />
+      <point x="5786.486339182431" y="1192.0" />
+      <point x="-19.533333333333758" y="180.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.TrackingServiceImpl" target="com.emusicstore.model.Tracking">
+      <point x="113.66666666666697" y="-99.5" />
+      <point x="12132.22525181633" y="3770.0" />
+      <point x="12114.308585149662" y="3770.0" />
+      <point x="12114.308585149662" y="651.0" />
+      <point x="6002.500441746533" y="651.0" />
+      <point x="123.23076923076951" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CartDaoImpl" target="com.emusicstore.service.CustomerOrderService">
+      <point x="-127.0" y="-86.0" />
+      <point x="5915.902183500458" y="3480.0" />
+      <point x="5313.113185304605" y="3480.0" />
+      <point x="0.0" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.ShippingAdrDao" target="com.emusicstore.model.ShippingAddress">
+      <point x="0.0" y="-85.5" />
+      <point x="392.0" y="701.0" />
+      <point x="1035.6367360078293" y="701.0" />
+      <point x="-88.78571428571377" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.service.TrackingService">
+      <point x="-100.26315789473688" y="-140.0" />
+      <point x="8507.88902560572" y="3210.0" />
+      <point x="7175.527183500458" y="3210.0" />
+      <point x="42.625" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartREST" target="com.emusicstore.model.Customer">
+      <point x="-70.22222222222263" y="-180.5" />
+      <point x="7276.679961278235" y="3540.0" />
+      <point x="7590.1419184829965" y="3540.0" />
+      <point x="7590.1419184829965" y="2840.0" />
+      <point x="2905.5272482733417" y="2840.0" />
+      <point x="105.09090909090992" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.ProductDaoImpl" target="com.emusicstore.model.Product">
+      <point x="117.75" y="-154.0" />
+      <point x="11349.308585149662" y="3770.0" />
+      <point x="11301.183585149662" y="3770.0" />
+      <point x="11301.183585149662" y="1647.0" />
+      <point x="9118.719299435377" y="1647.0" />
+      <point x="132.78571428571422" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.ProductServiceImpl" target="com.emusicstore.dao.ProductDao">
+      <point x="157.0" y="-154.0" />
+      <point x="10428.558585149662" y="3770.0" />
+      <point x="10548.607619204644" y="3770.0" />
+      <point x="-117.75" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CartServiceImpl" target="com.emusicstore.model.Cart">
+      <point x="73.0" y="-59.0" />
+      <point x="6905.902183500458" y="3530.0" />
+      <point x="7579.1419184829965" y="3530.0" />
+      <point x="7579.1419184829965" y="2392.0" />
+      <point x="6449.944067657547" y="2392.0" />
+      <point x="26.705882352941444" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartREST" target="com.emusicstore.service.ProductService">
+      <point x="140.44444444444434" y="-180.5" />
+      <point x="7487.346627944902" y="3760.0" />
+      <point x="9405.683585149662" y="3760.0" />
+      <point x="-117.75" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.service.CartService" target="com.emusicstore.model.Cart">
+      <point x="0.0" y="-45.0" />
+      <point x="6703.738185304605" y="2402.0" />
+      <point x="6436.591126481076" y="2402.0" />
+      <point x="13.352941176470267" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.model.CustomerOrder" target="com.emusicstore.model.ShippingAddress">
+      <point x="-131.85000000000036" y="-180.5" />
+      <point x="5674.1696725157635" y="591.0" />
+      <point x="1213.2081645792568" y="591.0" />
+      <point x="88.78571428571377" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.service.CartItemService">
+      <point x="-80.2105263157896" y="-140.0" />
+      <point x="8527.941657184667" y="3610.0" />
+      <point x="8701.558585149663" y="3610.0" />
+      <point x="118.0" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.TrackingServiceImpl" target="com.emusicstore.dao.TrackingDao">
+      <point x="0.0" y="-99.5" />
+      <point x="85.25" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="com.emusicstore.service.CustomerOrderService">
+      <point x="-187.5" y="-167.5" />
+      <point x="6290.902183500458" y="3470.0" />
+      <point x="5403.113185304605" y="3470.0" />
+      <point x="90.0" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="com.emusicstore.service.CartService">
+      <point x="187.5" y="-167.5" />
+      <point x="6665.902183500458" y="3500.0" />
+      <point x="6659.938185304605" y="3500.0" />
+      <point x="-43.80000000000018" y="45.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.RegisterController" target="com.emusicstore.model.BillingAddress">
+      <point x="-54.222222222222626" y="-86.0" />
+      <point x="1027.7499999999982" y="3380.0" />
+      <point x="1197.0412156076363" y="3380.0" />
+      <point x="1197.0412156076363" y="671.0" />
+      <point x="2676.589116960209" y="671.0" />
+      <point x="-70.625" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="com.emusicstore.dao.CustomerOrderDao">
+      <point x="-112.5" y="-167.5" />
+      <point x="6365.902183500458" y="3460.0" />
+      <point x="5895.613185304605" y="3460.0" />
+      <point x="112.5" y="126.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.UsersServiceImpl" target="com.emusicstore.service.UsersService">
+      <point x="-101.33333333333394" y="-59.5" />
+      <point x="3905.752525252524" y="3390.0" />
+      <point x="3367.613185304605" y="3390.0" />
+      <point x="0.0" y="45.5" />
+    </edge>
+    <edge source="com.emusicstore.model.Customer" target="com.emusicstore.model.Cart">
+      <point x="88.30555555555475" y="-194.0" />
+      <point x="2888.7418947379865" y="2332.0" />
+      <point x="6316.4146558928405" y="2332.0" />
+      <point x="-106.82352941176487" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.RegisterController" target="com.emusicstore.model.Customer">
+      <point x="54.222222222222626" y="-86.0" />
+      <point x="1136.1944444444434" y="3400.0" />
+      <point x="1533.9162156076359" y="3400.0" />
+      <point x="1533.9162156076359" y="2850.0" />
+      <point x="2695.345430091522" y="2850.0" />
+      <point x="-105.09090909090992" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.model.Product" target="com.emusicstore.model.CartItem">
+      <point x="-51.07142857142844" y="207.5" />
+      <point x="8934.862156578234" y="1697.0" />
+      <point x="7706.3085851496635" y="1697.0" />
+      <point x="84.75" y="-99.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartREST" target="com.emusicstore.model.Cart">
+      <point x="-35.11111111111131" y="-180.5" />
+      <point x="7311.7910723893465" y="3550.0" />
+      <point x="7601.1419184829965" y="3550.0" />
+      <point x="7601.1419184829965" y="2382.0" />
+      <point x="6463.297008834017" y="2382.0" />
+      <point x="40.05882352941171" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.model.Tracking">
+      <point x="0.0" y="-234.5" />
+      <point x="4875.402183500458" y="3320.0" />
+      <point x="4700.7862622276825" y="3320.0" />
+      <point x="4700.7862622276825" y="691.0" />
+      <point x="5776.577364823457" y="691.0" />
+      <point x="-102.69230769230762" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="com.emusicstore.dao.CustomerDao">
+      <point x="-152.5" y="-154.0" />
+      <point x="2892.0858585858573" y="3420.0" />
+      <point x="2831.9722222222213" y="3420.0" />
+      <point x="91.5" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CustomerController" target="com.emusicstore.service.CustomerService">
+      <point x="151.25" y="-342.5" />
+      <point x="1799.7222222222208" y="3450.0" />
+      <point x="3618.0417567331756" y="3450.0" />
+      <point x="-104.57142857142935" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CartDaoImpl" target="com.emusicstore.dao.CartDao">
+      <point x="127.0" y="-86.0" />
+      <point x="6169.902183500458" y="3490.0" />
+      <point x="6248.488185304605" y="3490.0" />
+      <point x="-54.75" y="58.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.TrackingDaoImpl" target="com.emusicstore.model.Tracking">
+      <point x="-85.25" y="-99.5" />
+      <point x="11572.308585149662" y="671.0" />
+      <point x="5961.42351866961" y="671.0" />
+      <point x="82.15384615384573" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.model.Product">
+      <point x="40.10526315789457" y="-140.0" />
+      <point x="8648.257446658352" y="3680.0" />
+      <point x="8975.719299435375" y="3680.0" />
+      <point x="-10.21428571428578" y="207.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.CustomerController" target="com.emusicstore.service.TrackingService">
+      <point x="272.25" y="-342.5" />
+      <point x="1920.7222222222208" y="3510.0" />
+      <point x="7005.027183500458" y="3510.0" />
+      <point x="-127.875" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.service.CartService">
+      <point x="-120.31578947368439" y="-140.0" />
+      <point x="8487.836394026774" y="3220.0" />
+      <point x="6791.338185304606" y="3220.0" />
+      <point x="87.60000000000036" y="45.0" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CartItemDaoImpl" target="com.emusicstore.model.Cart">
+      <point x="-118.0" y="-99.5" />
+      <point x="7814.5585851496635" y="2880.0" />
+      <point x="7785.3085851496635" y="2880.0" />
+      <point x="7785.3085851496635" y="2372.0" />
+      <point x="6476.649950010487" y="2372.0" />
+      <point x="53.41176470588198" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CartItemServiceImpl" target="com.emusicstore.dao.CartItemDao">
+      <point x="-44.25" y="-99.5" />
+      <point x="8176.402183500458" y="3580.0" />
+      <point x="8396.058585149663" y="3580.0" />
+      <point x="88.5" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.service.MailService">
+      <point x="-180.47368421052647" y="-140.0" />
+      <point x="8427.67849928993" y="3250.0" />
+      <point x="2327.2222222222213" y="3250.0" />
+      <point x="178.125" y="45.0" />
+    </edge>
+    <edge source="com.emusicstore.model.CartItem" target="com.emusicstore.model.Cart">
+      <point x="-47.08333333333303" y="99.5" />
+      <point x="7574.4752518163305" y="1996.0" />
+      <point x="6517.821518637938" y="1996.0" />
+      <point x="94.58333333333303" y="-86.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartController" target="com.emusicstore.model.Customer">
+      <point x="-113.66666666666697" y="-72.5" />
+      <point x="3550.9191919191903" y="3400.0" />
+      <point x="3044.2222222222213" y="3400.0" />
+      <point x="3044.2222222222213" y="2870.0" />
+      <point x="2826.7090664551597" y="2870.0" />
+      <point x="26.272727272727934" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.model.CustomerOrder" target="com.emusicstore.model.Cart">
+      <point x="39.066666666666606" y="180.5" />
+      <point x="5845.086339182431" y="1172.0" />
+      <point x="6573.919330763698" y="1172.0" />
+      <point x="6573.919330763698" y="1956.0" />
+      <point x="6366.488185304605" y="1956.0" />
+      <point x="-56.75" y="-86.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.MailServiceImpl" target="com.emusicstore.service.MailService">
+      <point x="0.0" y="-59.0" />
+      <point x="59.375" y="45.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="com.emusicstore.model.CartItem">
+      <point x="112.5" y="-167.5" />
+      <point x="6590.902183500458" y="3490.0" />
+      <point x="6583.738185304605" y="3490.0" />
+      <point x="6583.738185304605" y="2006.0" />
+      <point x="7593.3085851496635" y="2006.0" />
+      <point x="-28.25" y="99.5" />
+    </edge>
+    <edge source="com.emusicstore.service.UsersService" target="com.emusicstore.model.Users">
+      <point x="0.0" y="-45.5" />
+      <point x="3367.613185304605" y="2322.0" />
+      <point x="3186.8768525297983" y="2322.0" />
+      <point x="20.54545454545405" y="113.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.UsersServiceImpl" target="com.emusicstore.model.Users">
+      <point x="0.0" y="-59.5" />
+      <point x="4007.0858585858577" y="3470.0" />
+      <point x="4014.5025252525247" y="3470.0" />
+      <point x="4014.5025252525247" y="2312.0" />
+      <point x="3207.422307075254" y="2312.0" />
+      <point x="41.09090909090992" y="113.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CartItemServiceImpl" target="com.emusicstore.model.Cart">
+      <point x="-132.75" y="-99.5" />
+      <point x="8087.902183500458" y="3580.0" />
+      <point x="8120.0585851496635" y="3580.0" />
+      <point x="8120.0585851496635" y="2362.0" />
+      <point x="6490.002891186959" y="2362.0" />
+      <point x="66.76470588235316" y="86.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CustomerController" target="com.emusicstore.service.CustomerOrderService">
+      <point x="211.75" y="-342.5" />
+      <point x="1860.2222222222208" y="3480.0" />
+      <point x="5133.113185304605" y="3480.0" />
+      <point x="-180.0" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.RegisterController" target="com.emusicstore.service.MailService">
+      <point x="108.44444444444525" y="-86.0" />
+      <point x="1190.416666666666" y="3410.0" />
+      <point x="1970.9722222222213" y="3410.0" />
+      <point x="-178.125" y="45.0" />
+    </edge>
+    <edge source="com.emusicstore.model.BillingAddress" target="com.emusicstore.model.Customer">
+      <point x="14.125" y="140.5" />
+      <point x="2761.339116960209" y="661.0" />
+      <point x="2752.714116960209" y="661.0" />
+      <point x="2752.714116960209" y="2402.0" />
+      <point x="2760.297450293543" y="2402.0" />
+      <point x="-40.13888888888869" y="-194.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CartREST" target="com.emusicstore.model.CartItem">
+      <point x="35.11111111111131" y="-180.5" />
+      <point x="7382.013294611569" y="3570.0" />
+      <point x="7623.1419184829965" y="3570.0" />
+      <point x="7623.1419184829965" y="2006.0" />
+      <point x="7630.9752518163305" y="2006.0" />
+      <point x="9.41666666666697" y="99.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminProduct" target="com.emusicstore.service.ProductService">
+      <point x="-175.0" y="-113.0" />
+      <point x="9578.558585149662" y="3770.0" />
+      <point x="9562.683585149662" y="3770.0" />
+      <point x="39.25" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.service.CustomerOrderService">
+      <point x="170.15384615384573" y="-234.5" />
+      <point x="5045.5560296543035" y="3490.0" />
+      <point x="5223.113185304605" y="3490.0" />
+      <point x="-90.0" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.CustomerController" target="com.emusicstore.service.MailService">
+      <point x="90.75" y="-342.5" />
+      <point x="1739.2222222222208" y="3420.0" />
+      <point x="2089.7222222222213" y="3420.0" />
+      <point x="-59.375" y="45.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CartItemServiceImpl" target="com.emusicstore.service.CartItemService">
+      <point x="44.25" y="-99.5" />
+      <point x="8264.902183500457" y="3600.0" />
+      <point x="8583.558585149663" y="3600.0" />
+      <point x="0.0" y="85.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.UsersDaoImpl" target="com.emusicstore.dao.UsersDao">
+      <point x="-76.0" y="-59.5" />
+      <point x="4255.085858585857" y="3470.0" />
+      <point x="4285.002525252525" y="3470.0" />
+      <point x="76.0" y="45.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.ProductController" target="com.emusicstore.service.ProductService">
+      <point x="-112.25" y="-127.0" />
+      <point x="10639.308585149662" y="3750.0" />
+      <point x="9719.683585149662" y="3750.0" />
+      <point x="196.25" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.RegisterController" target="com.emusicstore.model.ShippingAddress">
+      <point x="-162.66666666666606" y="-86.0" />
+      <point x="919.3055555555547" y="3360.0" />
+      <point x="1175.0412156076363" y="3360.0" />
+      <point x="1175.0412156076363" y="711.0" />
+      <point x="1100.2081645792568" y="711.0" />
+      <point x="-24.214285714286234" y="140.5" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CustomerOrderServiceImpl" target="com.emusicstore.model.CustomerOrder">
+      <point x="-37.5" y="-167.5" />
+      <point x="6440.902183500458" y="3450.0" />
+      <point x="6140.613185304605" y="3450.0" />
+      <point x="6140.613185304605" y="1192.0" />
+      <point x="5806.019672515764" y="1192.0" />
+      <point x="0.0" y="180.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CustomerDaoImpl" target="com.emusicstore.model.Customer">
+      <point x="-91.5" y="-154.0" />
+      <point x="2953.0858585858573" y="3420.0" />
+      <point x="2966.7222222222213" y="3420.0" />
+      <point x="2966.7222222222213" y="2880.0" />
+      <point x="2800.4363391824318" y="2880.0" />
+      <point x="0.0" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.model.Cart" target="com.emusicstore.model.CartItem">
+      <point x="18.91666666666697" y="-86.0" />
+      <point x="6442.154851971272" y="1976.0" />
+      <point x="7536.8085851496635" y="1976.0" />
+      <point x="-84.75" y="99.5" />
+    </edge>
+    <edge source="com.emusicstore.dao.impl.CustomerOrderDaoImpl" target="com.emusicstore.model.CustomerOrder">
+      <point x="-112.5" y="-140.5" />
+      <point x="5285.902183500458" y="3280.0" />
+      <point x="4984.863185304605" y="3280.0" />
+      <point x="4984.863185304605" y="1182.0" />
+      <point x="5747.4196725157635" y="1182.0" />
+      <point x="-58.600000000000364" y="180.5" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.model.TrackingId">
+      <point x="140.36842105263167" y="-140.0" />
+      <point x="8748.520604553089" y="3730.0" />
+      <point x="9266.433585149662" y="3730.0" />
+      <point x="9266.433585149662" y="230.0" />
+      <point x="5942.019672515764" y="230.0" />
+      <point x="62.75" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.service.impl.CustomerServiceImpl" target="com.emusicstore.model.Customer">
+      <point x="-122.0" y="-154.0" />
+      <point x="2526.9722222222213" y="3420.0" />
+      <point x="2543.121170711617" y="3420.0" />
+      <point x="2543.121170711617" y="2870.0" />
+      <point x="2747.8908846369777" y="2870.0" />
+      <point x="-52.54545454545405" y="194.0" />
+    </edge>
+    <edge source="com.emusicstore.model.CustomerOrder" target="com.emusicstore.model.Tracking">
+      <point x="-14.649999999999636" y="-180.5" />
+      <point x="5791.369672515764" y="711.0" />
+      <point x="5817.654287900379" y="711.0" />
+      <point x="-61.615384615384755" y="100.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.OrderController" target="com.emusicstore.service.ProductService">
+      <point x="180.47368421052624" y="-140.0" />
+      <point x="8788.625867710984" y="3770.0" />
+      <point x="9484.183585149662" y="3770.0" />
+      <point x="-39.25" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.RegisterController" target="com.emusicstore.service.CustomerService">
+      <point x="216.8888888888887" y="-86.0" />
+      <point x="1298.8611111111095" y="3440.0" />
+      <point x="3565.756042447462" y="3440.0" />
+      <point x="-156.85714285714312" y="140.0" />
+    </edge>
+    <edge source="com.emusicstore.controller.AdminController" target="com.emusicstore.model.CustomerOrder">
+      <point x="85.07692307692287" y="-234.5" />
+      <point x="4960.479106577381" y="3300.0" />
+      <point x="4722.7862622276825" y="3300.0" />
+      <point x="4722.7862622276825" y="1172.0" />
+      <point x="5727.886339182431" y="1172.0" />
+      <point x="-78.13333333333321" y="180.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.10933660933660934" x="6095.0" y="2332.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
