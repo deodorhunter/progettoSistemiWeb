@@ -1,6 +1,6 @@
 # progettoSistemiWeb
 
-Progetto consegnato per l'esame di Ingengeria dei Sistemi Web, superato con votazione 30L/30
+Progetto consegnato per l'esame di Ingengeria dei Sistemi Web, superato con votazione 30L/30.
 Un semplice sito di ecommerce per strumenti ed articoli inerenti al mondo della musica, sviluppato in Java, Javascript/Angular.js e HTML, attraverso l'uso di framework come Spring, Hibernate e Bootstrap, con un approccio basato su REST services.
 
 
